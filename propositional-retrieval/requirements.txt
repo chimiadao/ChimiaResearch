@@ -1,0 +1,8 @@
+bs4
+chromadb
+langchain
+openai
+python-dotenv
+pypdf
+ruff
+tiktoken
