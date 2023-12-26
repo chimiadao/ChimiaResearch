@@ -126,3 +126,5 @@ cython_debug/
 
 chroma_db_proposals/
 multi_vector_retriever_metadata/
+query/
+.DS_Store

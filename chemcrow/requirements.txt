@@ -1,0 +1,9 @@
+langchain
+openai
+tiktoken
+google-search-results
+rdkit
+paper-qa
+paperscraper
+langchain_experimental
+numexpr
