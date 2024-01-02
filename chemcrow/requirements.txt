@@ -7,3 +7,5 @@ paper-qa
 paperscraper
 langchain_experimental
 numexpr
+molbloom
+types-pkg-resources
